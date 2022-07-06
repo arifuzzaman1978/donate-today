@@ -1,6 +1,8 @@
 body{
   margin: 0;
   font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Slab', serif;
 }
 .top-text{
   text-align: center;
@@ -94,3 +96,98 @@ z-index: -1;
   border: 1px solid red;
 }
 
+.donate-text{
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+  
+}
+.flexible-container{
+  display: flex;
+  margin-bottom: 150px;
+  margin-left: 150px;
+  margin-right: 100px;
+ }
+
+.icon-part1{
+  margin-left: 50px;
+  width: 25%;
+  background-color: #edf5f6;
+  padding: 20px 15px;
+  
+  
+}
+.icon-part1 img{
+  width: 20%;
+  height: auto;
+  
+}
+.icon-part2{
+  margin-left: 50px;
+  width: 25%;
+  background-color: #ffeeee;
+  padding: 20px 15px;
+  
+  
+}
+.icon-part2 img{
+  width: 20%;
+  height: auto;
+}
+.icon-part3{
+  margin-left: 50px;
+  width: 25%;
+  background-color: #fff4d6;
+  padding: 20px 15px;
+  
+  
+}
+.icon-part3 img{
+  width: 20%;
+  height: auto;
+}
+.cotribute-text{
+  margin-left: 100px;
+  margin-top: 30px;
+  width: 30%;
+}
+.cotribute-text h1{
+  font-size: 40px;
+  
+}
+.cotribute-text p{
+  font-size: 20px;
+}
+.cotribute-img img{
+  width: 70%;
+  height: auto;
+  margin-left: 125px;
+  margin-top: 50px;
+}
+.update-text{
+  text-align: center;
+  margin-top: 100px;
+}
+.update-text h1{
+  font-size: 40px;
+  font-weight: 700;
+}
+.update-text p {
+  line-height: 10px;
+}
+.footer-part{
+  background-color: black;
+  margin-top: 100px;
+}
+.footer-text{
+  text-align: center;
+}
+.footer-text h1{
+  color: #ff5959;
+  padding-top: 50px;
+}
+.footer-text h4{
+  color: #ffeeee;
+  padding-bottom: 50px;
+}
